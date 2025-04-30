@@ -1,0 +1,8 @@
+pandas
+numpy
+jupyter
+matplotlib
+seaborn
+pytest
+SQLAlchemy  # Optional: for SQL integration
+duckdb  # Optional: for SQL-like operations in memory 
